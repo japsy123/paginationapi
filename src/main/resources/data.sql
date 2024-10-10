@@ -1,0 +1,15 @@
+INSERT INTO products (name, description, price) VALUES ('Laptop', 'High performance laptop', 1200.00);
+INSERT INTO products (name, description, price) VALUES ('Smartphone', 'Latest model smartphone', 800.00);
+INSERT INTO products (name, description, price) VALUES ('Headphones', 'Noise-cancelling headphones', 200.00);
+INSERT INTO products (name, description, price) VALUES ('Monitor', '4K Ultra HD monitor', 400.00);
+INSERT INTO products (name, description, price) VALUES ('Keyboard', 'Mechanical keyboard', 100.00);
+INSERT INTO products (name, description, price) VALUES ('Mouse', 'Wireless mouse', 50.00);
+INSERT INTO products (name, description, price) VALUES ('Printer', 'All-in-one printer', 150.00);
+INSERT INTO products (name, description, price) VALUES ('Webcam', 'HD webcam', 80.00);
+INSERT INTO products (name, description, price) VALUES ('Speakers', 'Bluetooth speakers', 120.00);
+INSERT INTO products (name, description, price) VALUES ('Tablet', '10-inch tablet', 300.00);
+INSERT INTO products (name, description, price) VALUES ('External Hard Drive', '2TB external HDD', 100.00);
+INSERT INTO products (name, description, price) VALUES ('Smartwatch', 'Fitness smartwatch', 250.00);
+INSERT INTO products (name, description, price) VALUES ('Router', 'Dual-band router', 90.00);
+INSERT INTO products (name, description, price) VALUES ('SSD', '500GB NVMe SSD', 150.00);
+INSERT INTO products (name, description, price) VALUES ('Camera', 'Digital SLR camera', 700.00);
